@@ -1,0 +1,6 @@
+C:\knu\spz\7\7App1\7App1\bin\Release\7App1.exe.config
+C:\knu\spz\7\7App1\7App1\bin\Release\7App1.exe
+C:\knu\spz\7\7App1\7App1\bin\Release\7App1.pdb
+C:\knu\spz\7\7App1\7App1\obj\Release\7App1.csproj.CoreCompileInputs.cache
+C:\knu\spz\7\7App1\7App1\obj\Release\7App1.exe
+C:\knu\spz\7\7App1\7App1\obj\Release\7App1.pdb

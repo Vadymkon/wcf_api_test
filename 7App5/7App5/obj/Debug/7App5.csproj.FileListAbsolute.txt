@@ -1,0 +1,10 @@
+C:\knu\spz\7\7App5\7App5\bin\Debug\7App5.exe.config
+C:\knu\spz\7\7App5\7App5\bin\Debug\7App5.exe
+C:\knu\spz\7\7App5\7App5\bin\Debug\7App5.pdb
+C:\knu\spz\7\7App5\7App5\obj\Debug\7App5.csproj.AssemblyReference.cache
+C:\knu\spz\7\7App5\7App5\obj\Debug\_7App5.Form1.resources
+C:\knu\spz\7\7App5\7App5\obj\Debug\_7App5.Properties.Resources.resources
+C:\knu\spz\7\7App5\7App5\obj\Debug\7App5.csproj.GenerateResource.cache
+C:\knu\spz\7\7App5\7App5\obj\Debug\7App5.csproj.CoreCompileInputs.cache
+C:\knu\spz\7\7App5\7App5\obj\Debug\7App5.exe
+C:\knu\spz\7\7App5\7App5\obj\Debug\7App5.pdb

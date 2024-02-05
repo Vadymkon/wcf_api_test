@@ -1,0 +1,9 @@
+C:\knu\spz\7\KonchaVadym_SoapService\KonchaVadym_SoapService\bin\KonchaVadym_SoapService.dll.config
+C:\knu\spz\7\KonchaVadym_SoapService\KonchaVadym_SoapService\bin\KonchaVadym_SoapService.dll
+C:\knu\spz\7\KonchaVadym_SoapService\KonchaVadym_SoapService\bin\KonchaVadym_SoapService.pdb
+C:\knu\spz\7\KonchaVadym_SoapService\KonchaVadym_SoapService\bin\ClassLibrary.dll
+C:\knu\spz\7\KonchaVadym_SoapService\KonchaVadym_SoapService\bin\ClassLibrary.pdb
+C:\knu\spz\7\KonchaVadym_SoapService\KonchaVadym_SoapService\obj\Release\KonchaVadym_SoapService.csproj.CoreCompileInputs.cache
+C:\knu\spz\7\KonchaVadym_SoapService\KonchaVadym_SoapService\obj\Release\KonchaVadym_SoapService.csproj.CopyComplete
+C:\knu\spz\7\KonchaVadym_SoapService\KonchaVadym_SoapService\obj\Release\KonchaVadym_SoapService.dll
+C:\knu\spz\7\KonchaVadym_SoapService\KonchaVadym_SoapService\obj\Release\KonchaVadym_SoapService.pdb

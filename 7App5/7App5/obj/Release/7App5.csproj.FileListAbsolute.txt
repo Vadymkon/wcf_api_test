@@ -1,0 +1,9 @@
+C:\knu\spz\7\7App5\7App5\bin\Release\7App5.exe.config
+C:\knu\spz\7\7App5\7App5\bin\Release\7App5.exe
+C:\knu\spz\7\7App5\7App5\bin\Release\7App5.pdb
+C:\knu\spz\7\7App5\7App5\obj\Release\_7App5.Form1.resources
+C:\knu\spz\7\7App5\7App5\obj\Release\_7App5.Properties.Resources.resources
+C:\knu\spz\7\7App5\7App5\obj\Release\7App5.csproj.GenerateResource.cache
+C:\knu\spz\7\7App5\7App5\obj\Release\7App5.csproj.CoreCompileInputs.cache
+C:\knu\spz\7\7App5\7App5\obj\Release\7App5.exe
+C:\knu\spz\7\7App5\7App5\obj\Release\7App5.pdb
